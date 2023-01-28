@@ -1,3 +1,7 @@
+```bash
+# El repositorio, junto a este archivo, es sólo muestra. 
+# Todo el código y el repositorio original estan en privado.
+```
 # Sistema Gerencia de Transportes - Descripcion
 Sistema para la gestión de trámites y solicitudes | Sistema de Gerencia de Transportes | Municipalidad de Huancayo
 
@@ -49,7 +53,7 @@ Para este proyecto, por el lado del **BACKEND**, se levantó un server desarroll
 
 ## Participa
 <p align="left">
- <a href="https://github.com/KeyCuevasMelgarejo/SISTEMA-GERENCIA-TRANSPORTES_/subscription">
+ <a href="https://github.com/KeyCuevasMelgarejo/SISTEMA-GERENCIA-TRANSPORTES___PREVIEW/subscription">
     <img alt="Follow" title="Dale Me Gusta" src="https://shields.io/badge/-LIKE%20THIS%20REPO-informational.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
  
