@@ -2,6 +2,9 @@
 # El repositorio, junto a este archivo, es sólo muestra. 
 # Todo el código y el repositorio original estan en privado.
 ```
+```bash
+# Este proyecto entra en colaboración con + 1 persona [Se oculta el nombre por privacidad]
+```
 # Sistema Gerencia de Transportes - Descripcion
 Sistema para la gestión de trámites y solicitudes | Sistema de Gerencia de Transportes | Municipalidad de Huancayo
 
